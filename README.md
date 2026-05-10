@@ -5,9 +5,7 @@ Autonomous multi-goal navigation system built with ROS2 Humble, Nav2, and Turtle
 ---
 
 ## Demo
-
-> Record your RViz screen and add a GIF here:
-> [Uploading Screencast from 05-10-2026 09:17:37 PM.webm…]()
+[Uploading Screencast from 05-10-2026 09:17:37 PM.webm…]()
 
 
 ---
